@@ -234,3 +234,6 @@ This repository serves as the official landing page for EMDB. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of EMDB today!**
+
+---
+**Last updated:** 2026-09-08 07:52:25 UTC
