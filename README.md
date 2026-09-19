@@ -236,4 +236,4 @@ This repository serves as the official landing page for EMDB. The software is di
 **Get the most recent version of EMDB today!**
 
 ---
-**Last updated:** 2026-09-19 08:36:46 UTC
+**Last updated:** 2026-09-19 12:55:29 UTC
